@@ -1,0 +1,8 @@
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A2-ItemList\bin\Debug\A2_ItemList.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A2-ItemList\bin\Debug\A2_ItemList.pdb
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A2-ItemList\obj\Debug\A2-ItemList.cblprojAssemblyReference.cache
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A2-ItemList\obj\Debug\A2-ItemList.cblproj.CoreCompileInputs.cache
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A2-ItemList\obj\Debug\A2_ItemList.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A2-ItemList\obj\Debug\A2_ItemList.pdb
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A2-ItemList\bin\Debug\A2_ItemList.A2_ItemList_A2-ItemList.idy
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A2-ItemList\obj\Debug\A2_ItemList.A2_ItemList_A2-ItemList.idy
